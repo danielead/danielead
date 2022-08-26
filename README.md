@@ -13,10 +13,10 @@ Experience in developing Decentralized Blockchain applications using Ethereum.
 
 ## 🍯 Technical Stack
 
-- <p>🔗 Python 𒑰 Django 𒑰 Flask</p>
-- <p>💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js</p>
 - <p>⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++</p>
 - <p>🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma</p>
+- <p>💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js</p>
+- <p>🔗 PHP 𒑰 Laravel 𒑰 CI</p>
 - <p>🎒 NodeJS 𒑰 Express 𒑰 NestJS</p>
 - <p>🏹 Chrome extension with React & Redux</p>
 - <p>🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MySQL 𒑰 GraphQL 𒑰 PostgreSQL</p>
